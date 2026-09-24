@@ -1,5 +1,5 @@
 package cl.dsy1104.fonda.model;
 
-public class EstadoVenta {
-    
+public enum EstadoVenta {
+    Autorizada, rechazada
 }
